@@ -4,18 +4,18 @@
 // C++ Program to read a Gnuplot data file and write a 
 //     postscipt file to display it as a density plot.
 //
-//  $Id: densityplot.cc,v 1.1 1994/12/06 05:26:58 jak Exp $
+//  $Id: densityplot.cc,v 1.1.1.1 1994/12/06 05:26:59 jak Exp $
 //
 //  Author: John Kassebaum
 //
 // $Log: densityplot.cc,v $
-// Revision 1.1  1994/12/06 05:26:58  jak
-// Initial revision
+// Revision 1.1.1.1  1994/12/06 05:26:59  jak
+// Initial import of DensityPlot code. -jak
 //
 //
 //
 
-static char rcsid_densityplot_cc[] = "$Id: densityplot.cc,v 1.1 1994/12/06 05:26:58 jak Exp $";
+static char rcsid_densityplot_cc[] = "$Id: densityplot.cc,v 1.1.1.1 1994/12/06 05:26:59 jak Exp $";
 
 #include <stdio.h>
 #include <stdlib.h>
